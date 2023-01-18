@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparação", "Comparação\Comparação.csproj", "{A1E2FC9F-532B-417D-8052-D4D616A93EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E2FC9F-532B-417D-8052-D4D616A93EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E2FC9F-532B-417D-8052-D4D616A93EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E2FC9F-532B-417D-8052-D4D616A93EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E2FC9F-532B-417D-8052-D4D616A93EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E67823-4974-4FDF-A7A3-FE835282A888}
+	EndGlobalSection
+EndGlobal
